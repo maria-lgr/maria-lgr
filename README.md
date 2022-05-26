@@ -1,10 +1,18 @@
-# Hi, I'm Maria - 我是薛灵心
+## Hi, I'm Maria
 
-## I'm a Statistitian and an avid YouTube watcher
+<p align="center">
+  <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
-- 🔭 
+### About me
 
-### You can find more about me here:
+- 📌 Belo Horizonte, Brazil
+- 🎓 Recently graduated Statistician
+- 🐈 Stray cats lover
+- 🧚🏻‍♀️ Aspiring cosplayer
+- 🧶 I also love embroidery, sewing, painting and knitting
+
+### You can also find me here:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
@@ -23,3 +31,11 @@
 <br />
 <br />
 
+<details>
+  <summary> <b> More about my Github and Projects </b> <i>(click to expand!)</i> </summary>
+  
+  <br>
+
+  [![Maria GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)                  [![Maria GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)
+
+</details>
