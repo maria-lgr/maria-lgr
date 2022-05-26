@@ -16,27 +16,30 @@
 
 ### Technologies & Languages
 
-#### I'm good at and confortable with:
-
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
+- **I'm good at and confortable with:** <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="66px" src="https://iconape.com/wp-content/files/cw/345108/svg/345108.svg" style="padding-right:10px;" />
 
+<br />
+<br />
 
-#### I'm still learning but I can get by with:
+- **I'm still learning but I can get by with:**
 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 Snowflake
 
-#### I don't use much anymore but I've worked with
+<br />
+<br />
+
+- **I don't use much anymore but I've worked with:**
 
 CSS
 HTML
 Stan
 
-#### And finally, my next skills to aquire will be
+- **And finally, my next skills to aquire will be:**
 
 Power BI
 Scala
@@ -47,6 +50,8 @@ Spark
 [(./img/linked-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
 [(./img/linked-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
 &nbsp;&nbsp;
+
+[![Foo](./img/linked-light.svg)](http://google.com.au/)
 
 <br />
 <br />
