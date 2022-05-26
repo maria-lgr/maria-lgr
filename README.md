@@ -56,10 +56,6 @@ Spark
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
 &nbsp;&nbsp;
 
-[![Foo](./img/linkedin-light.svg)](http://google.com.au/)
-
-[<img src="./img/linkedin-dark.svg">]([http://google.com.au/](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US))
-[![](img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
 
 <br />
 <br />
