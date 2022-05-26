@@ -8,31 +8,50 @@
 
 - 📌 Belo Horizonte, Brazil
 - 🎓 Recently graduated Statistician
+- 🖥️ Data Scientist @ Oper (outsourcing @ BEES🐝)
 - 🐈 Stray cats lover
 - 🧚🏻‍♀️ Aspiring cosplayer
 - 🧶 I also love embroidery, sewing, painting and knitting
 
-### You can also find me here:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+### Technologies & Languages
+
+#### I'm good at and confortable with:
+
+[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />]
+SQL
+Mode
+
+#### I'm still learning but I can get by with:
+
+Python
+Git
+Snowflake
+
+#### I don't use much anymore but I've worked with
+
+CSS
+HTML
+Stan
+
+#### And finally, my next skills to aquire will be
+
+Power BI
+Scala
+Spark
+
+### You can also find me here
+
+[![website](./img/linked-light.svg)]([https://codestackr.com](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)#gh-light-mode-only)
+[![website](./img/linked-dark.svg)]([https://codestackr.com](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />]
-
-
 
 <br />
 <br />
 
 <details>
-  <summary> <b> More about my Github and Projects </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> My Github stats </b> <i>(click to expand!)</i> </summary>
   
   <br>
 
