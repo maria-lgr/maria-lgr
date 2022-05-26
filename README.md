@@ -52,14 +52,14 @@ Spark
 
 ### You can also find me here
 
-[![website](./img/linked-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[![website](./img/linked-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
 &nbsp;&nbsp;
 
-[![Foo](./img/linked-light.svg)](http://google.com.au/)
+[![Foo](./img/linkedin-light.svg)](http://google.com.au/)
 
-[<img src="./img/linked-dark.svg">]([http://google.com.au/](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US))
-[![LinkedIn](img/linked-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
+[<img src="./img/linkedin-dark.svg">]([http://google.com.au/](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US))
+[![](img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
 
 <br />
 <br />
