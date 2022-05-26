@@ -35,7 +35,7 @@
 **I'm still learning but I can get by with:**
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Snowflake" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Snowflake" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
 
 
 <br>
@@ -61,7 +61,7 @@ Spark
 ### You can also find me here
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
