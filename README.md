@@ -20,8 +20,9 @@
 
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />]
-SQL
-Mode
+[<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="RStudio" width="26px" src="https://iconape.com/wp-content/files/cw/345108/svg/345108.svg" style="padding-right:10px;" />]
+
 
 #### I'm still learning but I can get by with:
 
