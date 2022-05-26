@@ -19,15 +19,15 @@
 #### I'm good at and confortable with:
 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
-[<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="RStudio" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="RStudio" width="46px" src="https://iconape.com/wp-content/files/cw/345108/svg/345108.svg" style="padding-right:10px;" />]
+<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RStudio" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RStudio" width="66px" src="https://iconape.com/wp-content/files/cw/345108/svg/345108.svg" style="padding-right:10px;" />
 
 
 #### I'm still learning but I can get by with:
 
-[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 Snowflake
 
 #### I don't use much anymore but I've worked with
@@ -44,8 +44,8 @@ Spark
 
 ### You can also find me here
 
-[![website](./img/linked-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[![website](./img/linked-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
+[(./img/linked-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[(./img/linked-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <br />
