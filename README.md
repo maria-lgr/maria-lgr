@@ -18,6 +18,7 @@
 ### Technologies & Languages
 
 **I'm good at and confortable with:** 
+
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
@@ -27,6 +28,7 @@
 <br />
 
 **I'm still learning but I can get by with:**
+
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 Snowflake
@@ -35,11 +37,13 @@ Snowflake
 <br />
 
 **I don't use much anymore but I've worked with:**
+
 CSS
 HTML
 Stan
 
 **And finally, my next skills to aquire will be:**
+
 Power BI
 Scala
 Spark
@@ -55,6 +59,7 @@ Spark
 [![Foo](./img/linked-light.svg)](http://google.com.au/)
 
 [<img src="./img/linked-dark.svg">]([http://google.com.au/](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US))
+[![LinkedIn](img/linked-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
 
 <br />
 <br />
