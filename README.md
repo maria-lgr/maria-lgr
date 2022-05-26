@@ -1,7 +1,7 @@
 ## Hi, I'm Maria
 
 <p align="center">
-  <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover2.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 ### About me
