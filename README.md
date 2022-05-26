@@ -24,8 +24,8 @@
 <img align="left" alt="SQL" width="42px" src="./img/sql-dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Mode" width="66px" src="https://iconape.com/wp-content/files/cw/345108/svg/345108.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />(#gh-dark-mode-only)
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />(#gh-light-mode-only)
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />#gh-dark-mode-only
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />#gh-light-mode-only
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 
 <br>
@@ -35,7 +35,7 @@
 **I'm still learning but I can get by with:**
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Snowflake" width="76px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Snowflake" width="86px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
 
 
 <br>
@@ -55,9 +55,15 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Scala" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Spark" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+
+<br>
+<br>
 
 ---
+
+<br>
+<br>
 
 ### You can also find me here
 
@@ -66,8 +72,8 @@
 &nbsp;&nbsp;
 
 
-<br />
-<br />
+<br>
+<br>
 
 <details>
   <summary> <b> My Github stats </b> <i>(click to expand!)</i> </summary>
