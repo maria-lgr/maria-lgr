@@ -11,7 +11,7 @@
 - 🖥️ Data Scientist @ Oper (outsourcing @ BEES🐝)
 - 🐈 Stray cats lover
 - 🧚🏻‍♀️ Aspiring cosplayer
-- 🧶 I also love embroidery, sewing, painting and knitting
+- 🧵 I also love embroidery, sewing, painting and knitting
 
 ---
 
@@ -68,6 +68,14 @@
 
 [<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
 [<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+[<img src="./img/gitlab-light.svg" width="28">](https://gitlab.com/maria-lgr#gh-light-mode-only)
+[<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+[<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
+[<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <br>
