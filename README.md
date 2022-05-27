@@ -66,14 +66,8 @@
 
 ### You can also find me here
 
-<img align="left" alt="Spark" width="56px" src="./img/linkedin-light.svg" style="padding-right:10px;" />(https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[<img align="left" alt="Spark" width="56px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
-
-<img align="left" alt="Spark" width="56px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />(https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
-[<img align="left" alt="Spark" width="56px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" />](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US)
-
-<a style="width: 30px;">[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)</a>
-<a style="width: 30px;">[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)</a>
+[![website](./img/linkedin-light.svg =26x)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg =26x)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
