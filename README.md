@@ -21,8 +21,8 @@
 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="42px" src="./img/sql-light.svg#gh-light-mode-only" style="margin-top: -9px; padding-right:10px;" />
-<img align="left" alt="SQL" width="42px" src="./img/sql-dark.svg#gh-dark-mode-only" style="margin-top: -9px; padding-right:10px;" />
+<img align="left" alt="SQL" width="36px" src="./img/sql-light.svg#gh-light-mode-only" style="margin-top:-9px; padding-right:10px;" />
+<img align="left" alt="SQL" width="36px" src="./img/sql-dark.svg#gh-dark-mode-only" style="margin-top:-9px; padding-right:10px;" />
 <img align="left" alt="Mode" width="66px" src="https://iconape.com/wp-content/files/cw/345108/svg/345108.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
@@ -66,8 +66,8 @@
 
 ### You can also find me here
 
-[<img src="./img/linkedin-light.svg" width="26">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[<img src="./img/linkedin-dark.svg" width="26">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
+[<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <br>
