@@ -86,4 +86,4 @@
 
 </details>
 
-<p style="font-size:10px;">Read my profile in another language:</p> [🇧🇷](README.PT.md)
+<p style="font-size:50%;">Read my profile in another language:</p>[🇧🇷](README.PT.md)
