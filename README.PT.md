@@ -1,24 +1,23 @@
-## Hi, I'm Maria
+## Oi
 
 <p align="center">
   <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 
-### About me
+### Sobre mim
 
-- 📌 Belo Horizonte, Brazil
-- 🎓 Recently graduated Statistician
-- 🖥️ Data Scientist @ Oper (outsourcing @ BEES🐝)
-- 🐈 Stray cats lover
-- 🧚🏻‍♀️ Aspiring cosplayer
-- 🧵 I also love embroidery, sewing, painting and knitting
+- 📌 Belo Horizonte, Brasil
+- 🎓 Estatística recém graduada
+- 🖥️ CIentista de dados na Oper (terceirizada no BEES🐝)
+- 🐈 Adoro gatos de rua
+- 🧵 Gosto muito de bordar, costurar, pintar e tricotar
 
 ---
 
-### Technologies & Languages
+### Tecnologias e Linguagens
 
-**I'm good at and confortable with:** 
+**Sou boa e me sinto confortável em usar:** 
 
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
@@ -34,7 +33,7 @@
 <br>
 
 
-**I'm still learning but I can get by with:**
+**Ainda estou aprendendo mas sei me virar:**
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Snowflake" width="86px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
@@ -43,7 +42,7 @@
 <br>
 <br>
 
-**I don't use much anymore but I've worked with:**
+**Atualmente não uso muito, mas já trabalhei com:**
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -53,7 +52,7 @@
 <br>
 <br>
 
-**And finally, my next skills to aquire will be:**
+**Por fim, as próximas ferramentas a aprender são:**
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
@@ -65,7 +64,7 @@
 ---
 
 
-### You can also find me here
+### Você também pode me encontrar aqui
 
 [<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
 [<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
@@ -78,12 +77,12 @@
 <br>
 
 <details>
-  <summary> <b> My Github stats </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Estatísticas do meu Github </b> <i>(clique para expandir!)</i> </summary>
   
   <br>
 
-  [![Maria GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)                  [![Maria GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)
+  [![Maria GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)                  [![Top Languages no GitHub da Maria](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)
 
 </details>
 
-[🇧🇷](README.PT.md)
+[🇬🇧](README.md)
