@@ -86,6 +86,7 @@
 
 </details>
 
-<p align="center" style="font-size: 10px">
-  Read my profile in another language:
-</p>
+<img src="https://media4.giphy.com/media/2Yj2vRSHrhZIUyVPGl/giphy.gif?cid=ecf05e47fj95wcws5n4h4ecf2gx6ebhlsi8solozv8e9fyue&rid=giphy.gif" width="30">Data Scientist at <a href="https://operdata.com.br/">Oper</a> 
+</em></p>
+
+<font size="1">Read my profile in another language:</font> [🇧🇷](README.PT.md)
