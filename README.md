@@ -4,6 +4,7 @@
   <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+
 ### About me
 
 - 📌 Belo Horizonte, Brazil
@@ -68,15 +69,10 @@
 
 [<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
 [<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [<img src="./img/gitlab-light.svg" width="28">](https://gitlab.com/maria-lgr#gh-light-mode-only)
 [<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 [<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
 [<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 <br>
 <br>
@@ -89,3 +85,7 @@
   [![Maria GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)                  [![Maria GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)
 
 </details>
+
+<p align="center" style="font-size: 10px">
+  Read my profile in another language:
+</p>
