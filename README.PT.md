@@ -1,5 +1,6 @@
 ## Oi
 
+[🇬🇧](README.md)
 <p align="center">
   <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -12,6 +13,9 @@
 - 🖥️ CIentista de dados na Oper (terceirizada no BEES🐝)
 - 🐈 Adoro gatos de rua
 - 🧵 Gosto muito de bordar, costurar, pintar e tricotar
+
+<br>
+<br>
 
 ---
 
@@ -60,6 +64,7 @@
 
 <br>
 <br>
+<br>
 
 ---
 
@@ -72,17 +77,3 @@
 [<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
 [<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
 [<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
-
-<br>
-<br>
-
-<details>
-  <summary> <b> Estatísticas do meu Github </b> <i>(clique para expandir!)</i> </summary>
-  
-  <br>
-
-  [![Maria GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)                  [![Top Languages no GitHub da Maria](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)
-
-</details>
-
-[🇬🇧](README.md)
