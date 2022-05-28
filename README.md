@@ -72,7 +72,10 @@
 ### You can also find me here
 
 [<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only) https://www.linkedin.com/in/maria-luisa-greis-2000
+[<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only) 
+
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
 &nbsp;&nbsp;
 
 [<img src="./img/gitlab-light.svg" width="28" style="margin-bottom: 10px; padding: 5px;">](https://gitlab.com/maria-lgr#gh-light-mode-only)
