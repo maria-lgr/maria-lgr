@@ -15,7 +15,6 @@
 - 🧵 Gosto muito de bordar, costurar, pintar e tricotar
 
 <br>
-<br>
 
 ---
 
