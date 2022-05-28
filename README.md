@@ -71,12 +71,9 @@
 
 ### You can also find me here
 
-[<img align="left" alt="SQL" width="28px" src="./img/linkedin-light.svg#gh-light-mode-only" style="padding-right:10px;" />][https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only]
-[<img align="left" alt="SQL" width="28px" src="./img/linkedin-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />][(https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)]
-
-[<img src="./img/linkedin-light.svg" style="padding: 100px;" width="28" >](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
-[<img src="./img/linkedin-dark.svg" style="padding: 100px;" width="28" >](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only) 
-[<img src="./img/gitlab-light.svg" width="28" style="padding: 100px;">](https://gitlab.com/maria-lgr#gh-light-mode-only)
-[<img src="./img/gitlab-dark.svg" width="28" style="padding: 100px;">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
-[<img src="./img/instagram-light.svg" width="28" style="padding: 100px;">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
-[<img src="./img/instagram-dark.svg" width="28" style="paddingt: 100px;">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
+[<img src="./img/linkedin-light.svg" style="padding: 100px;" width="28px" >](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[<img src="./img/linkedin-dark.svg" style="padding: 100px;" width="28px" >](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only) 
+[<img src="./img/gitlab-light.svg" width="28px" style="padding: 100px;">](https://gitlab.com/maria-lgr#gh-light-mode-only)
+[<img src="./img/gitlab-dark.svg" width="28px" style="padding: 100px;">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
+[<img src="./img/instagram-light.svg" width="28px" style="padding: 100px;">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
+[<img src="./img/instagram-dark.svg" width="28px" style="paddingt: 100px;">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
