@@ -1,5 +1,6 @@
 ## Hi, I'm Maria
 
+[🇧🇷](README.PT.md)
 <p align="center">
   <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -73,17 +74,3 @@
 [<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
 [<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
 [<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
-
-<br>
-<br>
-
-<details>
-  <summary> <b> My Github stats </b> <i>(click to expand!)</i> </summary>
-  
-  <br>
-
-  [![Maria GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)                  [![Maria GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-lgr&show_icons=true&count_private=true)](https://github.com/maria-lgr)
-
-</details>
-
-[🇧🇷](README.PT.md)
