@@ -15,6 +15,9 @@
 - 🧚🏻‍♀️ Aspiring cosplayer
 - 🧵 I also love embroidery, sewing, painting and knitting
 
+<br>
+<br>
+
 ---
 
 ### Technologies & Languages
@@ -63,19 +66,22 @@
 <br>
 <br>
 
+<br>
+<br>
+
 ---
 
 
 ### You can also find me here
 
-[<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)https://www.linkedin.com/in/maria-luisa-greis-2000
-[<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)https://www.linkedin.com/in/maria-luisa-greis-2000
+[<img src="./img/linkedin-light.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-light-mode-only)
+[<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only) https://www.linkedin.com/in/maria-luisa-greis-2000
 &nbsp;&nbsp;
 
-[<img src="./img/gitlab-light.svg" width="28">](https://gitlab.com/maria-lgr#gh-light-mode-only)https://gitlab.com/maria-lgr
-[<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only)https://gitlab.com/maria-lgr
+[<img src="./img/gitlab-light.svg" width="28">](https://gitlab.com/maria-lgr#gh-light-mode-only)
+[<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only) https://gitlab.com/maria-lgr
 &nbsp;&nbsp;
 
-[<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)https://www.instagram.com/woshimaria_
-[<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)https://www.instagram.com/woshimaria_
+[<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
+[<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only) https://www.instagram.com/woshimaria_
 &nbsp;&nbsp;
