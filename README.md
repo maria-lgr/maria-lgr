@@ -23,7 +23,7 @@
 
 **I'm good at and confortable with:** 
 
-<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
+<img align="left" title="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RStudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />
 <img align="left" alt="SQL" width="36px" src="./img/sql-light.svg#gh-light-mode-only" style="margin-top:-9px; padding-right:10px;" />
 <img align="left" alt="SQL" width="36px" src="./img/sql-dark.svg#gh-dark-mode-only" style="margin-top:-9px; padding-right:10px;" />
