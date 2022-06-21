@@ -61,6 +61,10 @@
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Spark" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Google Cloud Platform" width="86px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="Amazon Web Services" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="padding-right:10px;" />
+
+
 
 <br>
 <br>
