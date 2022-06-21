@@ -62,7 +62,6 @@
 <img align="left" title="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
 <img align="left" title="Spark" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
 <img align="left" title="Google Cloud Platform" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" style="padding-right:10px;" />
-<img align="left" title="Amazon Web Services" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="padding-right:10px;" />
 
 
 
