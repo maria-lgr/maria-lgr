@@ -40,6 +40,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Snowflake" width="86px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
+<img align="left" title="Spark - PySpark" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" title="Databricks" width="100px" src="./img/databricks.svg" style="padding-right:10px;" >
 
 
 <br>
@@ -59,7 +61,7 @@
 
 <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Spark" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
+<img align="left" title="Google Cloud Platform" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" style="padding-right:10px;" />
 
 <br>
 <br>
