@@ -43,6 +43,7 @@
 <img align="left" title="Snowflake" width="86px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" style="padding-right:10px;" />
 <img align="left" title="Spark - PySpark" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" style="padding-right:10px;" />
 <img align="left" title="Databricks" width="56px" src="https://seekvectorlogo.com/databricks-vector-logo-svg/" style="padding-right:10px;" />
+<img align="left" title="Databricks" width="56px" src="./img/databricks.svg" style="padding-right:10px;" >
 
 
 
