@@ -10,7 +10,7 @@
 
 - 📌 Belo Horizonte, Brazil
 - 🎓 Recently graduated Statistician
-- 🖥️ Data Scientist @ Oper (outsourcing @ BEES🐝)
+- 🖥️ BI Consultant @ BHS
 - 🐈 Stray cats lover
 - 🧚🏻‍♀️ Aspiring cosplayer
 - 🧵 I also love embroidery, sewing, painting and knitting
