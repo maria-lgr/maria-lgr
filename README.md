@@ -1,6 +1,6 @@
 ## Hi, I'm Maria
 
-[🇧🇷](README.PT.md)
+[🇧🇷](README.PT.md) Português
 <p align="center">
   <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -9,8 +9,8 @@
 ### About me
 
 - 📌 Belo Horizonte, Brazil
-- 🎓 Recently graduated Statistician
-- 🖥️ BI Consultant @ BHS
+- 🎓 Statistician by Universidade Federal de Minas Gerais
+- 🖥️ Data Scientist
 - 🐈 Stray cats lover
 - 🧚🏻‍♀️ Aspiring cosplayer
 - 🧵 I also love embroidery, sewing, painting and knitting
@@ -58,17 +58,6 @@
 
 <br>
 <br>
-
-**And finally, my next skills to aquire will be:**
-
-<img align="left" title="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
-<img align="left" title="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
-<img align="left" title="Google Cloud Platform" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" style="padding-right:10px;" />
-
-
-
-<br>
-<br>
 <br>
 
 ---
@@ -80,5 +69,5 @@
 [<img src="./img/linkedin-dark.svg" style="padding: 100px;" width="28px" >](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only) 
 [<img src="./img/gitlab-light.svg" width="28px" style="padding: 100px;">](https://gitlab.com/maria-lgr#gh-light-mode-only)
 [<img src="./img/gitlab-dark.svg" width="28px" style="padding: 100px;">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
-[<img src="./img/instagram-light.svg" width="28px" style="padding: 100px;">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
-[<img src="./img/instagram-dark.svg" width="28px" style="paddingt: 100px;">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
+[<img src="./img/instagram-light.svg" width="28px" style="padding: 100px;">](https://www.instagram.com/marialuisa_reis_/#gh-light-mode-only)
+[<img src="./img/instagram-dark.svg" width="28px" style="paddingt: 100px;">](https://www.instagram.com/marialuisa_reis_/#gh-dark-mode-only)
