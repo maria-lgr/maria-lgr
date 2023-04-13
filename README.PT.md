@@ -1,6 +1,6 @@
 ## Oi
 
-[🇬🇧](README.md)
+[🇬🇧](README.md) English
 <p align="center">
   <img src="https://github.com/maria-lgr/maria-lgr/blob/main/git_cover.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -9,8 +9,8 @@
 ### Sobre mim
 
 - 📌 Belo Horizonte, Brasil
-- 🎓 Estatística recém graduada
-- 🖥️ CIentista de dados na Oper (terceirizada no BEES🐝)
+- 🎓 Estatística pela Universidade Federal de Minas Gerais
+- 🖥️ Cientista de Dados
 - 🐈 Adoro gatos de rua
 - 🧵 Gosto muito de bordar, costurar, pintar e tricotar
 
@@ -56,15 +56,6 @@
 
 <br>
 <br>
-
-**Por fim, as próximas ferramentas a aprender são:**
-
-<img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right:10px;" />
-<img align="left" title="Google Cloud Platform" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" style="padding-right:10px;" />
-
-<br>
-<br>
 <br>
 
 ---
@@ -76,5 +67,5 @@
 [<img src="./img/linkedin-dark.svg" width="28">](https://www.linkedin.com/in/maria-luisa-greis-2000/?locale=en_US#gh-dark-mode-only)
 [<img src="./img/gitlab-light.svg" width="28">](https://gitlab.com/maria-lgr#gh-light-mode-only)
 [<img src="./img/gitlab-dark.svg" width="28">](https://gitlab.com/maria-lgr#gh-dark-mode-only)
-[<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-light-mode-only)
-[<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/woshimaria_/#gh-dark-mode-only)
+[<img src="./img/instagram-light.svg" width="28">](https://www.instagram.com/marialuisa_reis_/#gh-light-mode-only)
+[<img src="./img/instagram-dark.svg" width="28">](https://www.instagram.com/marialuisa_reis_/#gh-dark-mode-only)
