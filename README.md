@@ -12,8 +12,7 @@
 - 🎓 Statistician by Universidade Federal de Minas Gerais
 - 🖥️ Data Scientist
 - 🐈 Stray cats lover
-- 🧚🏻‍♀️ Aspiring cosplayer
-- 🧵 I also love embroidery, sewing, painting and knitting
+- 🧚🏻‍♀️ Cosplayer
 
 <br>
 
