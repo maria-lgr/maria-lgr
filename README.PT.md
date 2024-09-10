@@ -12,7 +12,7 @@
 - 🎓 Estatística pela Universidade Federal de Minas Gerais
 - 🖥️ Cientista de Dados
 - 🐈 Adoro gatos de rua
-- 🧵 Gosto muito de bordar, costurar, pintar e tricotar
+- 🧚‍♀️ Cosplayer
 
 <br>
 
